@@ -1,132 +1,19 @@
-**Google Earth**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed elementum diam. Cras tincidunt dapibus cursus. Nam nisi ante, condimentum in ornare sed, fermentum eget quam. Nunc vestibulum libero sit amet sollicitudin pharetra. Pellentesque egestas nunc eros, vel laoreet elit ornare sed. Praesent ornare eros a euismod malesuada. Suspendisse commodo tortor finibus nunc mattis, non luctus justo tincidunt.
 
-- [Google Earth files](http://david.tryse.net/googleearth/)
+Donec vehicula eu nisi fringilla accumsan. Praesent in ex non enim fringilla imperdiet. Phasellus id faucibus enim, at molestie arcu. Praesent vel lacus eu ante vestibulum sagittis. Nam lobortis metus sed risus eleifend accumsan. Etiam efficitur luctus est, at euismod eros porttitor in. Curabitur sodales mattis nisl, et pellentesque arcu dignissim a. Donec ac sem sagittis, placerat libero ac, viverra nisi. Proin eu est turpis. Cras in feugiat mauris, vel cursus leo. In viverra pretium turpis et scelerisque. Fusce finibus posuere ex ut egestas. Integer ac ligula ac mauris tempus scelerisque quis eu sem. Vestibulum non congue nibh. Pellentesque dui nisl, dapibus sed laoreet sit amet, aliquet sed sapien.
 
-<br>
+Nullam et bibendum mauris. Nam rhoncus ac risus ac fermentum. Nulla sodales luctus lectus, id auctor ipsum placerat et. Morbi venenatis consequat ante, vel vulputate mi. Sed molestie non nisl mollis pharetra. Nam rutrum tellus in massa efficitur volutpat. Integer eget posuere lacus.
 
-**_Posts_**
+Nullam tincidunt sapien ut metus scelerisque, non finibus tortor cursus. Vivamus dignissim eu lectus non vestibulum. Proin odio eros, dapibus non placerat at, tempor convallis mi. Praesent pretium tincidunt rutrum. Vestibulum nec dolor odio. Sed at erat metus. Curabitur rhoncus nisi nisl, sed maximus mi mattis sed. Praesent sed urna quis nisl eleifend dictum. Donec placerat nulla nec sapien fringilla, eu suscipit sapien pharetra. Praesent efficitur justo lectus, eget aliquam dui pharetra non. Praesent at volutpat sapien, a malesuada velit. Aenean posuere a magna vel fermentum. Ut a molestie nulla. Etiam euismod mauris id rhoncus rutrum. Pellentesque in magna quis augue egestas fringilla. Mauris ac magna mattis, luctus neque sit amet, luctus velit.
 
-- [PostgreSQL e ESRI – Parte 1](https://blog.viasig.com/2009/07/postgresql-e-esri-parte-1/)
-- [PostgreSQL e ESRI – Parte 1](https://blog.viasig.com/2009/12/postgresql-e-esri-parte-2/)
-- [Adding labels to ArcGIS Online web maps: Part 1](https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/adding-labels-to-arcgis-online-web-maps-part-1/?rmedium=redirect&rsource=blogs.esri.com/esri/arcgis/2011/11/21/adding-labels-to-arcgis-online-web-maps-part-1)
+Aenean tincidunt, neque a feugiat molestie, ipsum est vulputate nisi, non viverra massa turpis id elit. Ut semper at dolor at rutrum. Phasellus eget ipsum facilisis, varius mi sed, mollis turpis. Curabitur posuere lacus eu lorem ullamcorper rutrum non eu nisi. Phasellus id aliquet purus, placerat tristique tellus. Nulla facilisi. Quisque eu efficitur purus, sed ullamcorper ante. Donec placerat eros quis quam suscipit sodales. In iaculis convallis laoreet.
 
-<br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque tempor augue, non feugiat metus feugiat quis. Nullam in purus ante. Quisque commodo tortor nec felis tincidunt, sit amet pulvinar orci pharetra. In sit amet tristique est, id pharetra justo. Vivamus faucibus vulputate consectetur. Fusce elementum ullamcorper porttitor. Vestibulum semper maximus velit, sagittis faucibus arcu molestie sed. Sed feugiat est ut orci egestas commodo. Quisque sit amet nisi ipsum. Proin risus lacus, tempor sit amet consectetur vitae, auctor et ipsum. Vestibulum fringilla turpis ac metus pharetra imperdiet. Mauris a nisl vel orci ultricies ullamcorper. Fusce hendrerit feugiat ante vitae ultrices. Fusce ex orci, lacinia ut dictum eleifend, tempus ut urna. Maecenas ultrices tellus a bibendum interdum. Suspendisse purus nisi, consequat a tortor ullamcorper, rhoncus dignissim urna.
 
-**Mapas Históricos**
+Etiam feugiat eu leo vel pulvinar. Vestibulum commodo tellus sit amet sapien sollicitudin, ut dapibus felis eleifend. Curabitur tortor quam, vulputate non turpis at, hendrerit convallis tortor. Donec odio ligula, imperdiet a urna nec, rutrum pretium leo. Suspendisse elementum fringilla tellus, vitae mattis enim egestas et. Nullam auctor aliquam tincidunt. Nunc at sagittis diam. Aliquam id mauris dolor. Nullam eget euismod metus. Aliquam erat volutpat. Sed eu turpis lectus. In vehicula arcu sit amet viverra vestibulum. Ut et nibh ac libero molestie lobortis. Phasellus cursus, odio ac bibendum efficitur, arcu leo vestibulum turpis, vel placerat libero augue vel urna. Fusce non accumsan lorem, nec lobortis sapien. Vivamus fermentum vehicula ante in tempor.
 
-- [Library of Congress](http://www.loc.gov/maps/)
-- [Ciência Hoje no Tumblr](http://cienciahoje.tumblr.com/post/89203372764/viagem-no-tempo-on-line-e-de-graca-mapas-nao-sao)
-- [Historical Topographic Maps - Preserving the Past](https://www.usgs.gov/programs/national-geospatial-program/historical-topographic-maps-preserving-past)
+In lobortis elit fermentum pharetra mattis. Sed in ullamcorper felis. Etiam gravida felis a malesuada congue. Phasellus vel arcu ac elit auctor fermentum. Morbi ut urna a nisi hendrerit efficitur. Aliquam eu condimentum ex, vel eleifend enim. Vivamus convallis tempor metus. Donec nec dui vehicula, pharetra odio ac, sollicitudin dui. Maecenas tristique ligula vitae ultricies facilisis. Aliquam in fermentum nunc. Quisque egestas elit nisl, sit amet posuere ante fringilla et. Nulla facilisi. Morbi at urna at velit condimentum faucibus. Sed fringilla fringilla congue.
 
-<br>
+In auctor sed ante id finibus. Etiam sit amet gravida nunc, quis rutrum nisi. Fusce ullamcorper nisl eu cursus faucibus. Proin metus massa, sagittis nec ex sed, rhoncus porta nibh. Praesent sollicitudin ac quam vel pharetra. Quisque nec nulla mattis mi pulvinar rhoncus sit amet sed ex. Duis arcu arcu, luctus eu elementum et, dapibus quis leo. Pellentesque sed est molestie, rhoncus nisi in, dictum magna. Etiam vel venenatis leo. In hac habitasse platea dictumst. In hac habitasse platea dictumst. Sed at neque lorem. Suspendisse egestas turpis nibh, ac hendrerit eros posuere eu. Nullam id mauris vitae augue interdum egestas sit amet id velit.
 
-**Dados de Radar**
-
-- [DSA - Precipitação por Radar](http://sigma.cptec.inpe.br/radar/faq.jsp?i=en)
-- [REDEMET - Rede de Meteorologia do Comando da Aeronáutica](https://redemet.decea.mil.br/)
-- [Instituto de Pesquisas Meteorológicas](https://www.ipmetradar.com.br/)
-
-<br>
-
-**GPS**
-
-- [GarminNL](https://garmin.bbbike.org/)
-- [Connecting Garmin GPS to ESRI ArcGIS software](http://www.poi-factory.com/node/17850)
-- [Creating Multi-Segment Raster Topo Maps with MOAGU](https://www.gpsfiledepot.com/tutorials/creating-multi-segment-raster-topo-maps-with-moagu/)
-- [Fixed GMapTool problem regarding "Multiple products in img, creating TDB aborted"](http://voyager8.blogspot.com.br/2010/05/fixed-gmaptool-problem-regarding.html)
-- [Garmin 60CSX GPS: The Best Tricks](http://www.asiteaboutnothing.net/g_60csx.html)
-
-<br>
-
-**Dados de GPS**
-
-- [TrackSource](https://tracksource.org.br/)
-- [GPS File Depot](https://www.gpsfiledepot.com/)
-- [Viajeros Mapas](http://viajerosmapas.com/)
-- [TopoLusitania](http://topolusitania.blogspot.com/2011/09/topolusitania-v093.html)
-
-<br>
-
-**GPS Infos**
-
-- [How To Load .img Files Into MapSource or BaseCamp With MapSetToolkit](https://www.gpsfiledepot.com/tutorials/how-to-load-.img-files-into-mapsource-with-mapsettoolkit/)
-- [Convert gmapsupp.img to mapsource using gmaptool](https://mapsatenterprise.wordpress.com/2010/02/23/convert-gmapsupp-img-to-mapsource-using-gmaptool/)
-- [Portal GPS](http://www.portalgps.com.br/)
-
-<br>
-
-**ArcGIS Extension**
-
-- [Jenness Enterprises](http://www.jennessent.com/arcgis/arcgis_extensions.htm)
-- [Free ArcGIS tools](https://www.ian-ko.com/free/free_arcgis.htm)
-- [GeoSetter](https://geosetter.de/en/main-en/)
-- [Extensiones para ArcGIS](https://acolita.com/wp-content/cache/wp-rocket/acolita.com/extensiones-para-arcgis-gratis-y-de-prueba/index.html_gzip)
-- [SAM - Spatial Analysis in Macroecology](https://www.ecoevol.ufg.br/sam/)
-
-<br>
-
-**Portais**
-
-- [Directions Mag](https://www.directionsmag.com/)
-- [OpenTopography](https://opentopography.org/index.php)
-
-<br>
-
-**Empresas**
-
-- [Imagem](https://www.img.com.br/pt-br/home)
-- [Senografia](https://senografia.com.br/)
-- [Engesat](http://www.engesat.com.br)
-- [Geoambiente](https://www.geoambiente.com.br/)
-- [Campo Moderno](http://www.campomoderno.com.br/)
-- [Axis Maps](https://www.axismaps.com/), com o projeto [pilotplan](https://pilotplan.org/)
-
-<br>
-
-**Postagems**
-
-- [Gerar Memorial Descritivo](https://byander.com.br/memorial_descritivo/)
-- [Atmospheric Correction Parameter Calculator](https://atmcorr.gsfc.nasa.gov/)
-- [Cálculos Geodésicos - Aplicações on-line](https://www.ufrgs.br/lageo/calculos/inicial.html)
-
-<br>
-
-**Instituições de Pesquisa**
-
-- [CIIAGRO](http://www.ciiagro.org.br/)
-- [National Remote Sensing Centre (NRSC)](https://www.nrsc.gov.in/) da Índia
-- [cprm](http://www.cprm.gov.br/publique/)
-- [geosgb](https://geosgb.cprm.gov.br/)
-
-<br>
-
-**Blog**
-
-- [Sos GIS BR](https://sosgisbr.com/)
-
-<br>
-
-**Instituições Públicas**
-
-[SisCom - Consulta Pública de Áreas Embargadas](https://servicos.ibama.gov.br/ctf/publico/areasembargadas/ConsultaPublicaAreasEmbargadas.php)
-[SisCom - Centro de Sensoriamento Remoto](http://siscom.ibama.gov.br/)
-[EMBRAPA - Geoinfo Monitoramento por Satélite](http://geoinfo.cnpm.embrapa.br/)
-[INDE](https://inde.gov.br/)
-[SoS Mata Atlântica](http://mapas.sosma.org.br/)
-[RPPNs](https://sistemas.icmbio.gov.br/simrppn/publico/)
-[MMA - ProBio - Mapas de Cobertura Vegetal dos Biomas Brasileiros](http://mapas.mma.gov.br/mapas/aplic/probio/datadownload.htm)
-[Geonetwork IBGE](https://metadadosgeo.ibge.gov.br/geonetwork_ibge/srv/por/catalog.search#/home)
-[SIAGAS](http://siagasweb.cprm.gov.br/layout/index.php)
-
-
-
-<br>
-
-**Mundo**
-
-- [LandSat](https://www.usgs.gov/landsat-missions)
-- [earthnow](https://earthnow.usgs.gov/observer/?sessionId=8e5a1e6dd8f15ef0eb3cb4c8bbf725928507)
-- [EO Gateway](https://earth.esa.int/eogateway)
-- [European Soil Data Centre (ESDAC)](https://esdac.jrc.ec.europa.eu/)
-- [Worldclim](https://www.worldclim.org/)
-- [lightningmaps](https://www.lightningmaps.org/?lang=en#m=oss;t=3;s=0;o=0;b=;ts=0;)
+Curabitur et sodales libero, vel sodales leo. Duis mi ipsum, feugiat ac nisi at, venenatis cursus nunc. Ut pharetra eros lectus, eget vulputate tortor facilisis in. Proin massa arcu, auctor quis iaculis accumsan, egestas vel nunc. Sed ac neque ex. Nam eget lectus metus. Nunc vulputate mauris id lacinia convallis. Aenean vitae eleifend odio, ut blandit purus. Nullam tincidunt mollis nunc. Fusce lacinia, odio non porta interdum, nisi nulla efficitur quam, quis eleifend neque turpis hendrerit ante. Suspendisse enim lacus, semper in accumsan at, luctus ut nulla.
